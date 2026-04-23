@@ -1,4 +1,4 @@
-# Flourish Visualization – Seattle Fire 911 Calls
+# Flourish 2 Visualization – Seattle Fire 911 Calls
 
 ## Dataset
 This project uses the **Seattle Fire 911 Calls** dataset from Seattle Open Data. The dataset includes records of emergency incidents with details such as call type, location, and date/time.
