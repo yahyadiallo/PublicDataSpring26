@@ -7,7 +7,7 @@ Source: https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/
 
 ## Visualization
 <img width="794" height="656" alt="Fire-Calls-Chart" src="https://github.com/user-attachments/assets/923e0065-828a-4f90-a56c-cc3541e89263" />
-I created a bar chart in Flourish showing the **top 10 most common Seattle Fire 911 call types between April 2023 and April 2026**. The chart highlights how frequently each type of incident occurs.
+I created a bar chart in Flourish showing the top 10 most common Seattle Fire 911 call types between April 2023 and April 2026. The chart highlights how frequently each type of incident occurs.
 
 The main takeaway is that **Aid Response is by far the most common call type**, significantly higher than all others.
 
