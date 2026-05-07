@@ -1,0 +1,52 @@
+/* General page style */
+body {
+  font-family: "Source Sans 3", sans-serif;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+/* Center container */
+.review {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Title styling */
+#title {
+  color: blue;
+  font-size: 40px;
+}
+
+/* Paragraph styling */
+p {
+  font-size: 18px;
+  color: black;
+  line-height: 1.6;
+}
+
+/* Image styling */
+img {
+  width: 250px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+/* Image credit */
+.credit {
+  font-size: 12px;
+  color: gray;
+}
+
+/* Link styling */
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
