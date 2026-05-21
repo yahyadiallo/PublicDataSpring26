@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.maxLine {
+  fill: none;
+  stroke: red;
+  stroke-width: 3px;
+}
+
+.minLine {
+  fill: none;
+  stroke: blue;
+  stroke-width: 3px;
+}
+
+text {
+  font-size: 18px;
+}
