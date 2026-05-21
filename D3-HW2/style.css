@@ -1,19 +1,35 @@
 body {
   font-family: sans-serif;
+  margin: 40px;
 }
 
-.maxLine {
-  fill: none;
-  stroke: red;
-  stroke-width: 3px;
+svg {
+  background-color: wheat;
 }
 
-.minLine {
+.school {
   fill: none;
   stroke: blue;
   stroke-width: 3px;
 }
 
-text {
-  font-size: 18px;
+.work {
+  fill: none;
+  stroke: red;
+  stroke-width: 3px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.schoolLabel {
+  fill: blue;
+  font-size: 14px;
+}
+
+.workLabel {
+  fill: red;
+  font-size: 14px;
 }
