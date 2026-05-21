@@ -6,10 +6,10 @@ This project uses D3 to create a multi-line chart showing monthly temperature da
 The chart loads data from an external CSV file and visualizes the maximum and minimum temperatures over time using SVG paths and D3 line generators.
 
 ## Files
-- `index.html` → main webpage
-- `style.css` → chart styling
-- `main.js` → D3 visualization code
-- `nyc-2023.csv` → temperature dataset
+- `index.html` - main webpage
+- `style.css` - chart styling
+- `main.js` - D3 visualization code
+- `nyc-2023.csv` - temperature dataset
 
 ## Visualization
 The visualization includes:
